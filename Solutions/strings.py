@@ -6,7 +6,7 @@ if __name__ == '__main__':
     result = split_and_join(line)
     print(result)
     
-"""""""""""""""""""""""""""""""""
+""""""""""""""""""""""""""""""""""""
 def count_substring(string, sub_str):
     counter = 0
     for i in range(0, len(string)-2):
